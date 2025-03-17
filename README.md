@@ -37,7 +37,10 @@
 ![HackKim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackkim&theme=dark)
 
 ### 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackkim&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://img.shields.io/badge/Korean-%2300599C.svg?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-%23007396.svg?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+</p>
 
 ### 🛠 Tech Stack
 
