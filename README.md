@@ -22,7 +22,7 @@
 
 📫 Let’s Connect
 
-📧 Email: your@email.com
+📧 Email: yejihoon07@email.com
 💻 GitHub: hackkim
 
 ⚡ Fun Fact
