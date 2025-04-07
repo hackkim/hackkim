@@ -80,3 +80,9 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
+
+<!--🎓 Certifications -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/eJPT-Cybersecurity%20Certification-blueviolet?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</p>
