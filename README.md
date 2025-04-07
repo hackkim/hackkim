@@ -81,8 +81,8 @@
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-<!--🎓 Certifications -->
+🎓 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/eJPT-Cybersecurity%20Certification-blueviolet?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-blue?style=flat-square&logo=hackthebox&logoColor=white"/>
 </p>
