@@ -84,6 +84,6 @@
 ### 🎓 Certifications
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fdb42edb-8ecf-47a4-bdde-692b276f19a1"
-width="500px" alt="eJPT Certification"/>
+  <img src="https://github.com/user-attachments/assets/ac66c669-1b30-4347-83e6-a4c92ca8655c"
+width="300px" alt="eJPT Certification"/>
 </p>
