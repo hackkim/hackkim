@@ -81,8 +81,8 @@
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-🎓 Certifications
+### 🎓 Certifications
 
 <p align="center">
-  <img src=<"https://github.com/user-attachments/assets/d3ae0f00-2996-462d-b865-fe73deac81bd"/>
+  <img src="./images/ejpt-cert.png" width="500px" alt="eJPT Certification"/>
 </p>
