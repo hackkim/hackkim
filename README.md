@@ -34,7 +34,7 @@
 ## 📫 Professional Contact
 
 🏢 **Ghost Trace Red Team Services**  
-📧 **Business Inquiries:** yejihoon07@email.com  
+📧 **Business Inquiries:** yejihoon07@gmail.com  
 💻 **GitHub:** hackkim  
 🔐 **Security Consultations Available**
 
