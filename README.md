@@ -123,8 +123,10 @@ next      : OSCP
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hackkim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackkim&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hackkim&theme=github_dark"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hackkim&theme=github_dark"/>
+
+<img src="https://streak-stats.demolab.com?user=hackkim&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=00ff9c&dates=8b949e" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackkim&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%"/>
 
