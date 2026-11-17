@@ -1,133 +1,69 @@
-👋 Welcome to HackKim's World!
+# 김성훈 (SungHoon Kim)
 
-🚀 Cybersecurity Enthusiast | Ethical Hacker | Web3 Security Researcher | Red Team Specialist
+모의해킹 · 모의침투 · 취약점 분석 | Security Researcher
 
-## 👀 About Me
+웹 애플리케이션과 인프라 모의해킹, 취약점 분석을 하는 보안 연구원입니다. 현재 whysecurity(주식회사와이시큐리티) 보안 컨설팅팀에서 정보보안 컨설턴트로 일하며, KISA 「주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드」를 기준으로 제조, 중공업, 에너지, 통신/방산 분야 고객사의 웹과 인프라를 진단합니다.
 
-🔹 **Ghost Trace One-Person Red Team CEO** - Leading advanced penetration testing and security research  
-🔹 Passionate about offensive security, bug bounty hunting, and Web3 security  
-🔹 Specialized in exploit development, reverse engineering, and vulnerability research  
-🔹 Constantly learning and staying ahead in cybersecurity trends and AI security  
+독자 연구로 CVE 9건을 할당받았습니다. 제보는 유지보수 담당자, GitHub Security Advisory, WPScan을 통한 책임 있는 공개로 진행합니다. 서울에서 모의해킹, 모의침투, 취약점 분석 포지션을 찾고 있으며, 대면 또는 하이브리드로 근무할 수 있습니다. 다음 목표는 OSCP입니다.
 
-## 🌱 Currently Learning
+I am a security researcher focused on web and infrastructure penetration testing and vulnerability analysis. I work as a security consultant at whysecurity, and I have been assigned 9 CVEs through independent research and responsible disclosure. I am based in Seoul and currently preparing for OSCP.
 
-📌 **Advanced Red Teaming** | **Elite Exploitation Techniques**  
-📌 **Smart Contract Security** | **Solidity Auditing & Web3 Pentesting**  
-📌 **Machine Learning for Cybersecurity** | **AI-based Threat Detection**  
-📌 **Zero-Day Research** | **Advanced Persistent Threat (APT) Analysis**
-
-## 💼 Professional Services
-
-🎯 **Red Team Operations** - Advanced penetration testing and security assessments  
-🎯 **Web3 Security Audits** - Smart contract and blockchain security reviews  
-🎯 **Vulnerability Research** - Zero-day discovery and responsible disclosure  
-🎯 **Security Consulting** - Enterprise security strategy and implementation  
-
-## 💡 Open to Collaboration
-
-🔗 **Enterprise Security Assessments**  
-🔗 **Red Team Engagements**  
-🔗 **Bug Bounty & Vulnerability Disclosure**  
-🔗 **Web3 & Blockchain Security Audits**  
-🔗 **Advanced Security Research Projects**
-
-## 📫 Professional Contact
-
-🏢 **Ghost Trace Red Team Services**  
-📧 **Business Inquiries:** yejihoon07@gmail.com  
-💻 **GitHub:** hackkim  
-🔐 **Security Consultations Available**
-
-> 💼 **Looking for professional red team services or security consultation?**  
-> **Contact me for enterprise-grade security assessments and advanced penetration testing.**
-
-## ⚡ Professional Highlights
-
-🔹 **Ghost Trace CEO** - One-person red team specializing in advanced security operations  
-🔹 **Certified Penetration Tester** - eJPT certified with hands-on expertise  
-🔹 **Security Researcher** - Active in vulnerability discovery and responsible disclosure  
-🔹 **Coffee-Powered Hacker** - CTFs, OSINT challenges, and zero-day hunting enthusiast ☕
+**[LinkedIn](https://www.linkedin.com/in/sunghoon-kim-53369137b/)** · **[TryHackMe](https://tryhackme.com/p/kimsunghoon)** · **[GitHub](https://github.com/hackkim)**
 
 ---
 
-### 📊 GitHub Stats
-![HackKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hackkim&show_icons=true&theme=radical)
+## 연구 · 실무 초점 / Focus
 
-### 🔥 GitHub Streak
-![HackKim's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackkim&theme=dark)
+- 웹 애플리케이션 모의해킹 (OWASP Top 10, 수동 재현)
+- 인프라 취약점 진단 (서버 · 네트워크 · 시스템 · 보안장비)
+- 취약점 연구와 책임 있는 공개 (Responsible Disclosure)
+- 이전 패치의 불완전 수정(Incomplete Fix) 분석
 
-### 🌐 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Korean-%2300599C.svg?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/English-%23007396.svg?style=for-the-badge&logo=googletranslate&logoColor=white"/>
-</p>
+## CVE (9)
 
-### 🛠 Professional Tech Stack
+공식 출처(NVD) 기준으로, 제품 · 취약점 유형 · CVSS만 적습니다.
 
-<p align="center">
-  <!-- 🖥️ Programming Languages -->
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
+| CVE | 제품 | 유형 | CVSS | NVD |
+| --- | --- | --- | --- | --- |
+| [CVE-2025-11307](https://nvd.nist.gov/vuln/detail/CVE-2025-11307) | WP Go Maps | Stored XSS | 8.8 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-11307) |
+| [CVE-2025-48095](https://nvd.nist.gov/vuln/detail/CVE-2025-48095) | Survey Maker | Stored XSS | 5.9 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-48095) |
+| [CVE-2026-14568](https://nvd.nist.gov/vuln/detail/CVE-2026-14568) | WP User Frontend | Improper Access Control | 6.5 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-14568) |
+| [CVE-2026-66065](https://nvd.nist.gov/vuln/detail/CVE-2026-66065) | ouroboros-ai | Incomplete Fix | v4 8.4 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-66065) |
+| [CVE-2026-77007](https://nvd.nist.gov/vuln/detail/CVE-2026-77007) | HEL Online Classroom | Sensitive Data Exposure | 7.5 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77007) |
+| [CVE-2026-77008](https://nvd.nist.gov/vuln/detail/CVE-2026-77008) | HEL Online Classroom | Improper Access Control | 6.5 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77008) |
+| [CVE-2026-77010](https://nvd.nist.gov/vuln/detail/CVE-2026-77010) | HEL Online Classroom | Access Control Bypass | 6.5 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77010) |
+| [CVE-2026-54567](https://nvd.nist.gov/vuln/detail/CVE-2026-54567) | Flask-Reuploaded | Incomplete Fix | 7.5 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-54567) |
+| [CVE-2026-67325](https://nvd.nist.gov/vuln/detail/CVE-2026-67325) | GitPython | Incomplete Fix | 8.8 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-67325) |
 
-<p align="center">
-  <!-- 🌐 Web Technologies -->
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+GitPython, WP Go Maps, ouroboros-ai, Flask-Reuploaded, HEL Online Classroom에서 High 등급 취약점을 확인했습니다. 이 중 GitPython, Flask-Reuploaded, ouroboros-ai 3건은 이전 패치의 불완전 수정 사례입니다. GitHub Security Advisory에서 reporter credit을 받았습니다.
 
-<p align="center">
-  <!-- 🔐 Security Operating Systems -->
-  <img src="https://img.shields.io/badge/Kali_Linux-%230077C2.svg?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
+## 경력 / Experience
 
-<p align="center">
-  <!-- 🔥 Red Team Arsenal -->
-  <img src="https://img.shields.io/badge/Nmap-%23007396.svg?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-%2300AEEF.svg?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-%231675BB.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-%23FF6F00.svg?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-</p>
+**정보보안 컨설턴트 (주임)** — whysecurity(주식회사와이시큐리티) 보안 컨설팅팀
 
-<p align="center">
-  <!-- 💥 Advanced Exploitation Tools -->
-  <img src="https://img.shields.io/badge/FFUF-%23F24E1E.svg?style=for-the-badge&logo=hackerone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDA_Pro-%23000000.svg?style=for-the-badge&logo=ida-pro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDB-%2300599C.svg?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exploit_DB-%23007396.svg?style=for-the-badge&logo=exploitdb&logoColor=white"/>
-</p>
+- 약 10여 개 중견 고객사의 인프라 진단을 자산 식별부터 위험도 평가, 조치방안, 보고서 작성까지 수행했습니다.
+- OWASP Top 10 기반 웹 모의해킹을 수행하며, 스캐너 결과를 수동으로 재현해 실제 악용 가능 여부를 확인합니다.
+- 악성메일 모의훈련 기획·결과 분석과 임직원 보안 인식 진단도 담당합니다.
 
-<p align="center">
-  <!-- ☁️ Cloud & Infrastructure -->
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
+## 자격 · 교육 / Certifications & Training
 
-### 🎓 Professional Certifications
+- **eJPT** (INE Security, 2024.11)
+- **K-Shield Junior 13기** 취약점 분석 전문가 과정 (200시간, 2024.08–2024.10)
+- **KISA 헌팅 마스터 2차** B트랙 Web2·Web3 (192시간, 2025.06–2025.08)
+- **KISA 버그헌팅 실습 훈련** 스타트업연계과정 (28시간, 2024.06–2024.07)
+- **Start-Up K-Shield Jr.** 스타트업 연계 과정 (80시간, 2024.08)
+- **Find the Gap** 취약점 연구 및 버그헌팅 활동 인증 (2025.12)
+- **TryHackMe** Cyber Security 101 (2025.04), Jr Penetration Tester (2025.05) — 대한민국 5위, 글로벌 상위 1%(Guardian)
+- **정보보호관리사 1급** (2022.08)
+- **해킹보안전문가 1급 · 3급** (2022.08)
+- **Securiti AI Security & Governance**
+- **OSCP** 준비 중
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac66c669-1b30-4347-83e6-a4c92ca8655c" width="300px" alt="eJPT Certification"/>
-</p>
+## 주요 도구 / Tools
+
+Burp Suite, Nmap, Nessus, Wireshark, FFUF, Metasploit, AFL++, GDB  
+Python, C, C++, SQL
 
 ---
 
-## 🚨 Professional Security Services Available
-
-**Contact Ghost Trace for:**
-- 🎯 **Red Team Assessments** - Advanced adversarial simulation
-- 🔍 **Penetration Testing** - Comprehensive security evaluations  
-- 🛡️ **Security Audits** - Web3, blockchain, and traditional systems
-- 🔬 **Vulnerability Research** - Zero-day discovery and analysis
-- 📋 **Security Consulting** - Strategic cybersecurity guidance
-
-**Ready to secure your organization? Let's connect!** 🔐
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hackkim&show_icons=true&theme=transparent)
