@@ -119,6 +119,40 @@ next      : OSCP
 [ ] OSCP ............................................. in progress_
 ```
 
+
+```bash
+└─$ ls ./certs --gallery
+```
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%"><a href="certs/ejpt.jpg"><img src="certs/ejpt.jpg" width="100%"/></a><br/><sub>eJPT · INE Security</sub></td>
+    <td align="center" width="33%"><a href="certs/info-security-manager-1.jpg"><img src="certs/info-security-manager-1.jpg" width="100%"/></a><br/><sub>정보보호관리사 1급</sub></td>
+    <td align="center" width="33%"><a href="certs/hacking-security-expert-1.jpg"><img src="certs/hacking-security-expert-1.jpg" width="100%"/></a><br/><sub>해킹보안전문가 1급</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="certs/hacking-security-expert-3.jpg"><img src="certs/hacking-security-expert-3.jpg" width="100%"/></a><br/><sub>해킹보안전문가 3급</sub></td>
+    <td align="center" width="33%"><a href="certs/kshield-jr-13.jpg"><img src="certs/kshield-jr-13.jpg" width="100%"/></a><br/><sub>K-Shield Jr. 13기 취약점 분석</sub></td>
+    <td align="center" width="33%"><a href="certs/kisa-hunting-master-2.jpg"><img src="certs/kisa-hunting-master-2.jpg" width="100%"/></a><br/><sub>KISA 헌팅 마스터 2차</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="certs/find-the-gap.jpg"><img src="certs/find-the-gap.jpg" width="100%"/></a><br/><sub>Find the Gap 활동 인증</sub></td>
+    <td align="center" width="33%"><a href="certs/kisa-bughunting-startup.jpg"><img src="certs/kisa-bughunting-startup.jpg" width="100%"/></a><br/><sub>KISA 버그헌팅 스타트업연계</sub></td>
+    <td align="center" width="33%"><a href="certs/startup-kshield-jr.jpg"><img src="certs/startup-kshield-jr.jpg" width="100%"/></a><br/><sub>Start-Up K-Shield Jr. (80H)</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><a href="certs/thm-jr-pentester.jpg"><img src="certs/thm-jr-pentester.jpg" width="100%"/></a><br/><sub>TryHackMe Jr Penetration Tester</sub></td>
+    <td align="center" width="33%"><a href="certs/thm-cs101.jpg"><img src="certs/thm-cs101.jpg" width="100%"/></a><br/><sub>TryHackMe Cyber Security 101</sub></td>
+    <td align="center" width="33%"><a href="certs/securiti-ai-security-governance.jpg"><img src="certs/securiti-ai-security-governance.jpg" width="100%"/></a><br/><sub>Securiti AI Security &amp; Governance</sub></td>
+  </tr>
+</table>
+
+<sub>Click any image to enlarge</sub>
+
+</div>
+
 ---
 
 <div align="center">
