@@ -1,69 +1,133 @@
-# 김성훈 (SungHoon Kim)
+<div align="center">
 
-모의해킹 · 모의침투 · 취약점 분석 | Security Researcher
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff9c&height=220&section=header&text=SungHoon%20Kim&fontSize=58&fontColor=00ff9c&fontAlignY=38&desc=Penetration%20Tester%20%C2%B7%20Vulnerability%20Researcher&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-웹 애플리케이션과 인프라 모의해킹, 취약점 분석을 하는 보안 연구원입니다. 현재 whysecurity(주식회사와이시큐리티) 보안 컨설팅팀에서 정보보안 컨설턴트로 일하며, KISA 「주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드」를 기준으로 제조, 중공업, 에너지, 통신/방산 분야 고객사의 웹과 인프라를 진단합니다.
+<a href="https://github.com/hackkim">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami;%3E+%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9+%C2%B7+%EB%AA%A8%EC%9D%98%EC%B9%A8%ED%88%AC+%C2%B7+%EC%B7%A8%EC%95%BD%EC%A0%90+%EB%B6%84%EC%84%9D;%3E+9+CVEs+via+responsible+disclosure;%3E+Security+Consultant+%40+whysecurity;%3E+Next+target%3A+OSCP" alt="typing"/>
+</a>
 
-독자 연구로 CVE 9건을 할당받았습니다. 제보는 유지보수 담당자, GitHub Security Advisory, WPScan을 통한 책임 있는 공개로 진행합니다. 서울에서 모의해킹, 모의침투, 취약점 분석 포지션을 찾고 있으며, 대면 또는 하이브리드로 근무할 수 있습니다. 다음 목표는 OSCP입니다.
+<br/>
 
-I am a security researcher focused on web and infrastructure penetration testing and vulnerability analysis. I work as a security consultant at whysecurity, and I have been assigned 9 CVEs through independent research and responsible disclosure. I am based in Seoul and currently preparing for OSCP.
+<a href="https://www.linkedin.com/in/sunghoon-kim-53369137b/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/></a>
+<a href="https://tryhackme.com/p/kimsunghoon"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff9c"/></a>
+<a href="https://github.com/hackkim"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c"/></a>
+<img src="https://img.shields.io/badge/CVE-9-00ff9c?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Seoul-KR-00ff9c?style=for-the-badge&labelColor=0d1117"/>
 
-**[LinkedIn](https://www.linkedin.com/in/sunghoon-kim-53369137b/)** · **[TryHackMe](https://tryhackme.com/p/kimsunghoon)** · **[GitHub](https://github.com/hackkim)**
-
----
-
-## 연구 · 실무 초점 / Focus
-
-- 웹 애플리케이션 모의해킹 (OWASP Top 10, 수동 재현)
-- 인프라 취약점 진단 (서버 · 네트워크 · 시스템 · 보안장비)
-- 취약점 연구와 책임 있는 공개 (Responsible Disclosure)
-- 이전 패치의 불완전 수정(Incomplete Fix) 분석
-
-## CVE (9)
-
-공식 출처(NVD) 기준으로, 제품 · 취약점 유형 · CVSS만 적습니다.
-
-| CVE | 제품 | 유형 | CVSS | NVD |
-| --- | --- | --- | --- | --- |
-| [CVE-2025-11307](https://nvd.nist.gov/vuln/detail/CVE-2025-11307) | WP Go Maps | Stored XSS | 8.8 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-11307) |
-| [CVE-2025-48095](https://nvd.nist.gov/vuln/detail/CVE-2025-48095) | Survey Maker | Stored XSS | 5.9 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-48095) |
-| [CVE-2026-14568](https://nvd.nist.gov/vuln/detail/CVE-2026-14568) | WP User Frontend | Improper Access Control | 6.5 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-14568) |
-| [CVE-2026-66065](https://nvd.nist.gov/vuln/detail/CVE-2026-66065) | ouroboros-ai | Incomplete Fix | v4 8.4 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-66065) |
-| [CVE-2026-77007](https://nvd.nist.gov/vuln/detail/CVE-2026-77007) | HEL Online Classroom | Sensitive Data Exposure | 7.5 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77007) |
-| [CVE-2026-77008](https://nvd.nist.gov/vuln/detail/CVE-2026-77008) | HEL Online Classroom | Improper Access Control | 6.5 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77008) |
-| [CVE-2026-77010](https://nvd.nist.gov/vuln/detail/CVE-2026-77010) | HEL Online Classroom | Access Control Bypass | 6.5 Medium | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-77010) |
-| [CVE-2026-54567](https://nvd.nist.gov/vuln/detail/CVE-2026-54567) | Flask-Reuploaded | Incomplete Fix | 7.5 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-54567) |
-| [CVE-2026-67325](https://nvd.nist.gov/vuln/detail/CVE-2026-67325) | GitPython | Incomplete Fix | 8.8 High | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-67325) |
-
-GitPython, WP Go Maps, ouroboros-ai, Flask-Reuploaded, HEL Online Classroom에서 High 등급 취약점을 확인했습니다. 이 중 GitPython, Flask-Reuploaded, ouroboros-ai 3건은 이전 패치의 불완전 수정 사례입니다. GitHub Security Advisory에서 reporter credit을 받았습니다.
-
-## 경력 / Experience
-
-**정보보안 컨설턴트 (주임)** — whysecurity(주식회사와이시큐리티) 보안 컨설팅팀
-
-- 약 10여 개 중견 고객사의 인프라 진단을 자산 식별부터 위험도 평가, 조치방안, 보고서 작성까지 수행했습니다.
-- OWASP Top 10 기반 웹 모의해킹을 수행하며, 스캐너 결과를 수동으로 재현해 실제 악용 가능 여부를 확인합니다.
-- 악성메일 모의훈련 기획·결과 분석과 임직원 보안 인식 진단도 담당합니다.
-
-## 자격 · 교육 / Certifications & Training
-
-- **eJPT** (INE Security, 2024.11)
-- **K-Shield Junior 13기** 취약점 분석 전문가 과정 (200시간, 2024.08–2024.10)
-- **KISA 헌팅 마스터 2차** B트랙 Web2·Web3 (192시간, 2025.06–2025.08)
-- **KISA 버그헌팅 실습 훈련** 스타트업연계과정 (28시간, 2024.06–2024.07)
-- **Start-Up K-Shield Jr.** 스타트업 연계 과정 (80시간, 2024.08)
-- **Find the Gap** 취약점 연구 및 버그헌팅 활동 인증 (2025.12)
-- **TryHackMe** Cyber Security 101 (2025.04), Jr Penetration Tester (2025.05) — 대한민국 5위, 글로벌 상위 1%(Guardian)
-- **정보보호관리사 1급** (2022.08)
-- **해킹보안전문가 1급 · 3급** (2022.08)
-- **Securiti AI Security & Governance**
-- **OSCP** 준비 중
-
-## 주요 도구 / Tools
-
-Burp Suite, Nmap, Nessus, Wireshark, FFUF, Metasploit, AFL++, GDB  
-Python, C, C++, SQL
+</div>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hackkim&show_icons=true&theme=transparent)
+```bash
+┌──(hackkim㉿seoul)-[~]
+└─$ cat about.txt
+```
+
+```yaml
+name      : 김성훈 (SungHoon Kim)
+role      : 정보보안 컨설턴트 (주임) @ whysecurity (주식회사와이시큐리티)
+focus     : [Web Pentest, Infra Assessment, Vulnerability Research, Incomplete-Fix Analysis]
+standard  : KISA 주요정보통신기반시설 기술적 취약점 분석·평가 방법 상세가이드
+disclosure: Maintainers · GitHub Security Advisory · WPScan
+status    : 서울 · 모의해킹/모의침투/취약점 분석 포지션 탐색 중 (대면 · 하이브리드)
+next      : OSCP
+```
+
+> 웹 애플리케이션과 인프라 모의해킹, 취약점 분석을 하는 보안 연구원입니다. 제조, 중공업, 에너지, 통신/방산 분야 고객사의 웹과 인프라를 진단하고, 독자 연구로 CVE 9건을 할당받았습니다.
+>
+> Security researcher focused on web & infrastructure penetration testing. 9 CVEs assigned through independent research and responsible disclosure.
+
+---
+
+```bash
+└─$ ./list_cves --source nvd
+```
+
+<div align="center">
+
+| CVE | Product | Type | CVSS |
+| :-- | :-- | :-- | :--: |
+| [`CVE-2025-11307`](https://nvd.nist.gov/vuln/detail/CVE-2025-11307) | WP Go Maps | Stored XSS | ![](https://img.shields.io/badge/8.8-HIGH-ff3860?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-67325`](https://nvd.nist.gov/vuln/detail/CVE-2026-67325) | GitPython | Incomplete Fix | ![](https://img.shields.io/badge/8.8-HIGH-ff3860?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-66065`](https://nvd.nist.gov/vuln/detail/CVE-2026-66065) | ouroboros-ai | Incomplete Fix | ![](https://img.shields.io/badge/v4_8.4-HIGH-ff3860?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-54567`](https://nvd.nist.gov/vuln/detail/CVE-2026-54567) | Flask-Reuploaded | Incomplete Fix | ![](https://img.shields.io/badge/7.5-HIGH-ff3860?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-77007`](https://nvd.nist.gov/vuln/detail/CVE-2026-77007) | HEL Online Classroom | Sensitive Data Exposure | ![](https://img.shields.io/badge/7.5-HIGH-ff3860?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-14568`](https://nvd.nist.gov/vuln/detail/CVE-2026-14568) | WP User Frontend | Improper Access Control | ![](https://img.shields.io/badge/6.5-MEDIUM-ffb000?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-77008`](https://nvd.nist.gov/vuln/detail/CVE-2026-77008) | HEL Online Classroom | Improper Access Control | ![](https://img.shields.io/badge/6.5-MEDIUM-ffb000?style=flat-square&labelColor=0d1117) |
+| [`CVE-2026-77010`](https://nvd.nist.gov/vuln/detail/CVE-2026-77010) | HEL Online Classroom | Access Control Bypass | ![](https://img.shields.io/badge/6.5-MEDIUM-ffb000?style=flat-square&labelColor=0d1117) |
+| [`CVE-2025-48095`](https://nvd.nist.gov/vuln/detail/CVE-2025-48095) | Survey Maker | Stored XSS | ![](https://img.shields.io/badge/5.9-MEDIUM-ffb000?style=flat-square&labelColor=0d1117) |
+
+<sub>Source: NVD · 3 of 9 are incomplete-fix bypasses of prior patches · GHSA reporter credit</sub>
+
+</div>
+
+---
+
+```bash
+└─$ cat experience.log
+```
+
+```diff
++ [whysecurity] 정보보안 컨설턴트 (주임) · 보안 컨설팅팀
+  > 약 10여 개 중견 고객사 인프라 진단: 자산 식별 → 위험도 평가 → 조치방안 → 보고서
+  > OWASP Top 10 기반 웹 모의해킹, 스캐너 결과 수동 재현으로 실제 악용 가능성 검증
+  > 악성메일 모의훈련 기획·결과 분석, 임직원 보안 인식 진단
+```
+
+---
+
+```bash
+└─$ ls ./arsenal
+```
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff9c)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00ff9c)
+![Nessus](https://img.shields.io/badge/Nessus-0d1117?style=for-the-badge&logo=tenable&logoColor=00ff9c)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff9c)
+![FFUF](https://img.shields.io/badge/FFUF-0d1117?style=for-the-badge&logoColor=00ff9c)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00ff9c)
+![AFL++](https://img.shields.io/badge/AFL++-0d1117?style=for-the-badge&logoColor=00ff9c)
+![GDB](https://img.shields.io/badge/GDB-0d1117?style=for-the-badge&logo=gnu&logoColor=00ff9c)
+<br/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff9c)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff9c)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff9c)
+
+</div>
+
+---
+
+```bash
+└─$ cat certs_and_training.txt
+```
+
+```text
+[✔] eJPT ............................................. INE Security · 2024.11
+[✔] K-Shield Junior 13기 취약점 분석 전문가 과정 ........ 200h · 2024.08–2024.10
+[✔] KISA 헌팅 마스터 2차 B트랙 (Web2·Web3) ............. 192h · 2025.06–2025.08
+[✔] KISA 버그헌팅 실습 훈련 스타트업연계과정 ............ 28h · 2024.06–2024.07
+[✔] Start-Up K-Shield Jr. 스타트업 연계 과정 ........... 80h · 2024.08
+[✔] Find the Gap 취약점 연구 및 버그헌팅 활동 인증 ...... 2025.12
+[✔] TryHackMe Cyber Security 101 / Jr Penetration Tester · 2025.04 / 2025.05
+    └─ 대한민국 5위 · Global Top 1% (Guardian)
+[✔] 정보보호관리사 1급 ................................. 2022.08
+[✔] 해킹보안전문가 1급 · 3급 ............................ 2022.08
+[✔] Securiti AI Security & Governance
+[ ] OSCP ............................................. in progress_
+```
+
+---
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hackkim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackkim&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackkim&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0d1117,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
